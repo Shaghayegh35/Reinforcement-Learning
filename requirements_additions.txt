@@ -1,0 +1,6 @@
+tensorboard>=2.16.0
+pytest>=7.4.0
+# Optional Atari extras (heavy):
+# gymnasium[atari,accept-rom-license]==0.29.1
+# ale-py
+
